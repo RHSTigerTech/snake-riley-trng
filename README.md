@@ -10,9 +10,15 @@ Individually play the game a few times (5 minutes max).
 
 What are some improvements that could be made to the game? Brainstorm with your group and list them here in the README:
 
-*  
-*  
-*  
+*  Growth upon eating
+*  Speed increase
+*  Display score
+*  Apple respawn
+*  Pause
+*  Poison apple mode
+*  High score saved
+*  Game over after collision
+*  Restart game
 
 Next, examine the code and discuss what is going on with your partner(s).
 
